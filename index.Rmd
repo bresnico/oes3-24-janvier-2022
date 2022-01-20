@@ -164,7 +164,7 @@ class: middle
 - Insiste sur un *délivrable* qui est **utile** aux personnes (répond aux besoins).
 
 ---
-class: middle
+class: middle center
 
 ### Clarifiction des relations avec les autres institutions (projet)
 
@@ -216,6 +216,8 @@ se -> oes
       
 ')
 ```
+
+[Voir l'image en plus grand]("https://github.com/bresnico/oes3-24-janvier-2022/raw/master/img/graph.png")
 ]
 
 ---
