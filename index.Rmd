@@ -217,7 +217,7 @@ se -> oes
 ')
 ```
 
-[Voir l'image en plus grand]("https://github.com/bresnico/oes3-24-janvier-2022/raw/master/img/graph.png")
+[Voir l'image en plus grand](https://github.com/bresnico/oes3-24-janvier-2022/raw/master/img/graph.png)
 ]
 
 ---
